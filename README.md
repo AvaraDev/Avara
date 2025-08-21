@@ -30,7 +30,6 @@
 - [API Reference](#-api-reference)
 - [Security](#-security)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🎯 Overview
 
